@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design Inspiration"
+  short_description: "Build interfaces from your personal design collection"
+  default_prompt: "Use $ui-design-inspiration to design and build this interface using my saved references."

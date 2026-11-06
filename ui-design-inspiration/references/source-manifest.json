@@ -1,0 +1,136 @@
+{
+  "review_date": "2026-11-06",
+  "images": [
+    {
+      "id": "S01",
+      "path": "references/images/01-warm-workflow.png",
+      "width": 2544,
+      "height": 692,
+      "sha256": "69b4d75203dd41fdcd0f306162a2c008fee1d14f39ff62df36ba541145b90078",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S02",
+      "path": "references/images/02-dark-orb-dashboard.png",
+      "width": 1148,
+      "height": 1556,
+      "sha256": "94468c71038e0065f2e2892dc92cc6745ec22cd353b48aa6626913bd788fe3d1",
+      "review": "visually inspected",
+      "source_url": "https://x.com/x6sense/status/2117776294255444215",
+      "source_status": "matching still in curator post; original creator unverified"
+    },
+    {
+      "id": "S03",
+      "path": "references/images/03-soft-credit-cards.png",
+      "width": 1230,
+      "height": 1538,
+      "sha256": "f22c927ea02b6d5a69665224d79ebe9f2235d0ea1ab471d3b0cb7256f9d1cbb0",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S04",
+      "path": "references/images/04-teal-process-node.png",
+      "width": 2156,
+      "height": 1590,
+      "sha256": "f0d7258d0fa41f75a9a19862285415a351f9d6eaa4c61f4467ef35baef07757e",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S05",
+      "path": "references/images/05-luminous-breath-control.png",
+      "width": 1118,
+      "height": 1632,
+      "sha256": "ea64b141e7f533d2fb66b27688f0f7179073a2de2f6dc4c27b6ec47291929b5f",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S06",
+      "path": "references/images/06-dark-health-dashboard.png",
+      "width": 1260,
+      "height": 1638,
+      "sha256": "ce80285bf6a93ac05961e293fe9833766d448af3d6bacecb28c126abe1f5eeac",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S07",
+      "path": "references/images/07-editorial-plan-picker.png",
+      "width": 972,
+      "height": 1676,
+      "sha256": "233506a589e7689583f25e5beedad1ccee1d42544afe935da455c2a8232852a4",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S08",
+      "path": "references/images/08-ai-onboarding-composer.png",
+      "width": 2370,
+      "height": 1630,
+      "sha256": "818f34610dcb1466227bbc9d59b888503ee22d6c640564e488ff931153bc0472",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S09",
+      "path": "references/images/09-split-finance-dashboard.png",
+      "width": 1784,
+      "height": 1628,
+      "sha256": "4f28ede6acb281ad4218cb1923373b5e4221af43e1e3922ba81bcd80c2bd8c09",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S10",
+      "path": "references/images/10-onboarding-checklist.png",
+      "width": 1290,
+      "height": 1596,
+      "sha256": "aafef05734a069184a600abe6ac1c516ab0b8a0270eaac446751d62c41b275f7",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S11",
+      "path": "references/images/11-progress-states.png",
+      "width": 944,
+      "height": 1200,
+      "sha256": "cf7ca567e7149f3ffe88e8bf1b67935ef660638c683393e02bde2717b7179966",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S12",
+      "path": "references/images/12-integration-discovery.png",
+      "width": 1970,
+      "height": 1488,
+      "sha256": "c591e987f4d8fce7b34a2568abd9f4ed5dbbcaa482f102fe4f4725c9aefa2684",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    },
+    {
+      "id": "S13",
+      "path": "references/images/13-editorial-storytelling.png",
+      "width": 2104,
+      "height": 1412,
+      "sha256": "dcc32cb09df69d3a0fbe6f3ce606557122cecab53a3c7d9fd9a7be82b6eac614",
+      "review": "visually inspected",
+      "source_url": null,
+      "source_status": "original source not recorded"
+    }
+  ],
+  "image_processing": "Capture metadata removed; pixel data and color profiles preserved."
+}

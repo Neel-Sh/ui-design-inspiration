@@ -1,0 +1,27 @@
+# Local source inbox and personal installation notes
+/Screenshot*.png
+/links.txt
+/USING-UI-DESIGN-SKILL.md
+/inbox/
+
+# Generated packages, environments, caches, and editor state
+/dist/
+/*.zip
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+*.swp
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.claude/
+.codex/
